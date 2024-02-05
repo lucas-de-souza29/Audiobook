@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audiobook</title>
+    <link rel="stylesheet" href="./style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.min.css">
+    <script src="./script.js" defer></script>
+</head>
+<body>
+    <div class="container-app">
+        <img src="./images/iracema.jpg" alt="Capa">
+        <div id="info-faixa">
+            <p id="chapter">Capítulo 1</p>
+            <p id="author">José de Alencar</p>
+        </div>
+        <audio id="audio-chapter" src="./books/iracema/1.mp3"></audio>
+        <div class="container-buttons">
+            <button id="previous" class="bi bi-skip-backward-circle-fill"></button>
+            <button id="play-pause" class="bi bi-play-circle-fill"></button>
+            <button id="next" class="bi bi-skip-forward-circle-fill"></button>
+        </div>
+    </div>
+</body>
+</html>
