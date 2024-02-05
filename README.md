@@ -12,3 +12,6 @@ Os áudios utilizados neste projeto foram obtidos do LibriVox e fazem parte da o
 
 - **Autor:** José de Alencar
 - **Leitura dos Áudios:** Voluntários da LibriVox
+
+## Screenshot 📸
+![audiobook-iracema](https://github.com/lucas-de-souza29/Audiobook/assets/33586128/245fb66d-16d4-4148-8fbd-5ee15d1bb444)
